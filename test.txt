@@ -1,0 +1,105 @@
+12 twelve
+15 fifteen
+18 eighteen
+21 twenty one
+24 twenty four
+32 thirty two
+49 fourty nine
+56 fifty six
+58 fifty eight
+63 sixty three
+70 seventy
+79 seventy nine
+87 eighty seven
+91 ninety one
+92 ninety two
+110 one hundred ten
+117 one hundred seventeen
+128 one hundred twenty eight
+132 one hundred thirty two
+142 one hundred fourty two
+158 one hundred fifty eight
+162 one hundred sixty two
+220 two hundred twenty
+236 two hundred thirty six
+241 two hundred fourty one
+249 two hundred fourty nine
+258 two hundred fifty eight
+261 two hundred sixty one
+263 two hundred sixty three
+265 two hundred sixty five
+271 two hundred seventy one
+276 two hundred seventy six
+300 three hundred
+302 three hundred two
+305 three hundred five
+306 three hundred six
+327 three hundred twenty seven
+328 three hundred twenty eight
+335 three hundred thirty five
+346 three hundred fourty six
+351 three hundred fifty one
+356 three hundred fifty six
+359 three hundred fifty nine
+375 three hundred seventy five
+383 three hundred eighty three
+386 three hundred eighty six
+389 three hundred eighty nine
+395 three hundred ninety five
+398 three hundred ninety eight
+403 four hundred three
+407 four hundred seven
+449 four hundred fourty nine
+469 four hundred sixty nine
+470 four hundred seventy
+471 four hundred seventy one
+486 four hundred eighty six
+494 four hundred ninety four
+524 five hundred twenty four
+530 five hundred thirty
+531 five hundred thirty one
+556 five hundred fifty six
+561 five hundred sixty one
+622 six hundred twenty two
+625 six hundred twenty five
+628 six hundred twenty eight
+633 six hundred thirty three
+635 six hundred thirty five
+653 six hundred fifty three
+659 six hundred fifty nine
+673 six hundred seventy three
+692 six hundred ninety two
+707 seven hundred seven
+718 seven hundred eighteen
+719 seven hundred nineteen
+730 seven hundred thirty
+748 seven hundred fourty eight
+752 seven hundred fifty two
+763 seven hundred sixty three
+767 seven hundred sixty seven
+781 seven hundred eighty one
+794 seven hundred ninety four
+797 seven hundred ninety seven
+812 eight hundred twelve
+854 eight hundred fifty four
+862 eight hundred sixty two
+869 eight hundred sixty nine
+872 eight hundred seventy two
+873 eight hundred seventy three
+883 eight hundred eighty three
+889 eight hundred eighty nine
+894 eight hundred ninety four
+897 eight hundred ninety seven
+907 nine hundred seven
+911 nine hundred eleven
+913 nine hundred thirteen
+920 nine hundred twenty
+935 nine hundred thirty five
+936 nine hundred thirty six
+955 nine hundred fifty five
+967 nine hundred sixty seven
+969 nine hundred sixty nine
+975 nine hundred seventy five
+986 nine hundred eighty six
+988 nine hundred eighty eight
+994 nine hundred ninety four
